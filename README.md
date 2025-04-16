@@ -49,6 +49,7 @@ This project uses an **Artificial Neural Network (ANN)** built with TensorFlow/K
 ### ⚙️ Install Dependencies
 ```bash
 pip install -r requirements.txt
+'''
 
 ---
 

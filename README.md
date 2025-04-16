@@ -28,19 +28,19 @@ This project uses an **Artificial Neural Network (ANN)** built with TensorFlow/K
 ## 📊 Visual Results
 
 ### 🎯 ROC Curve
-![ROC Curve](roc_curve.png)
+![ROC Curve](plots/roc_curve.png)
 
 ### 🟩 Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](plots/confusion_matrix.png)
 
 ### 📊 Distribution of Predicted Probability
-![PD Distribution](distribution_of_predicted_probability_of_default.png)
+![PD Distribution](plots/distribution_of_predicted_probability_of_default.png)
 
 ### 🔍 PD Split by Actual Default Status
-![PD by Actual Default](predicted_PD_by_actual_default.png)
+![PD by Actual Default](plots/predicted_PD_by_actual_default.png)
 
 ### 📈 Training vs Validation Accuracy
-![Training vs Validation Accuracy](training__validation_accuracy_over_epochs.png)
+![Training vs Validation Accuracy](plots/training__validation_accuracy_over_epochs.png)
 
 ---
 

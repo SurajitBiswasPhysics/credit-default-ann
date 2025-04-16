@@ -65,9 +65,7 @@ Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for 
 If you're working on financial risk modeling, machine learning, or applied deep learning — let’s connect!
 
 👤 **Surajit Biswas**  
-🔗 ## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/surajit-biswas-phd/)
+🔗 ## Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/surajit-biswas-phd/)
 📫 surajitbiswas.iiserb@gmail.com
 
 ---

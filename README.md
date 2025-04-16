@@ -49,3 +49,27 @@ This project uses an **Artificial Neural Network (ANN)** built with TensorFlow/K
 ### ⚙️ Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 📚 Dataset Reference
+
+Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. *Expert Systems with Applications.*
+
+📂 [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+
+---
+
+## 🙌 About Me
+
+If you're working on financial risk modeling, machine learning, or applied deep learning — let’s connect!
+
+👤 **Surajit Biswas**  
+🔗 [LinkedIn Profile](www.linkedin.com/in/surajit-biswas-phd/)  
+📫 surajitbiswas.iiserb@gmail.com
+
+---
+
+## 🏷️ Tags
+
+`Artificial Neural Network` `Credit Risk Modeling` `TensorFlow` `Machine Learning` `Data Science` `Finance AI`
